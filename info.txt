@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>【10图】万达广场豪景 3室2厅3卫 236平米,-济南58同城</title>
+    <meta name="description" content="万达广场豪景 3室2厅3卫 236平米;售价：589万元（24957元/㎡）；房贷：首付约176.7万月供约（16905元）；产权：商品房 （70年产权）2012年建；类型：  低层/共30层；装修：豪华装修朝南北；"/>
+    <meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/jn/ershoufang/32699717499843x.shtml">
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/jn/ershoufang/32699717499843x.shtml">
+    <meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/jn/ershoufang/32699717499843x.shtml">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1,ie=edge">    
+    <link type="text/css" rel="stylesheet"
+          href="//c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20180115141240.css"
+          media="all"/>
+    <link rel="stylesheet"
+          href="//c.58cdn.com.cn/fangrs/pc-site/pages/esf/detail_v20171221171329.css"/>
+    <link rel="stylesheet" href="//c.58cdn.com.cn/ui7/css/easydialog_v20151228154544.css"/>
+
+
+    <!-- 页面基本的信息和配置 -->
+    <script type="text/javascript">
+
+        document.domain = '58.com';
+        try {
+            var ____json4fe = "";
+            ____json4fe ={"rootcatentry":{"dispid":1,"name":"\u623f\u4ea7\u4fe1\u606f","listname":"house"},"catentry":{"dispid":12,"name":"\u4e8c\u624b\u623f","listname":"ershoufang"},"locallist":[{"dispid":265,"name":"\u6d4e\u5357","listname":"jn"},{"dispid":266,"name":"\u5e02\u4e2d","listname":"jnshizhong"},{"dispid":13350,"name":"\u4e07\u8fbe\u5e7f\u573a","listname":"jnwandagc"}],"infoid":32699717499843,"userid":50615803240461,"linkman":null,"is_huzhuan":"false","modules":"finalpage","shipin":"","start":1516161065000,"isbiz":false,"isport":false,"xiaoqu":{"name":"\u4e07\u8fbe\u5e7f\u573a\u8c6a\u666f\u82d1\u5927\u5e73\u5c42\u8c6a\u88c5 ","lat":0,"lon":0,"baidulat":0,"baidulon":0},"_trackPagetype":"detail","_trackURL":"{'cate':'1,12','area':'265,266,13350','is_biz':false,'stats':1,'pagetype':'detail','source':0,'page':'','is_real':false,'8635':'','shopid':'','product':'[jingxuan]','infolabel':'[null]','type':'[mianfei]','infoSource':2}","_trackParams":[{"I":9773,"V":"20180117100243"},{"I":7535,"V":"70"},{"I":1576,"V":"3"},{"I":5344,"V":"1"},{"I":1577,"V":"30"},{"I":1574,"V":"3"},{"I":11174,"V":"1"},{"I":1575,"V":"2"},{"I":1572,"V":"\u4e07\u8fbe\u5e7f\u573a\u8c6a\u666f\u82d1\u5927\u5e73\u5c42\u8c6a\u88c5 "},{"I":7110,"V":"36.664241823670466"},{"I":7109,"V":"117.00102941068636"},{"I":8992,"V":"00000000"},{"I":10922,"V":""},{"I":10589,"V":"00000000"},{"I":7541,"V":"2012"},{"I":9184,"V":"2018-05-11 23:24:27"},{"I":11151,"V":"1"},{"I":5461,"V":""},{"I":5333,"V":"\u5b89\u5148\u751f"},{"I":1081,"V":"236"},{"I":6692,"V":"117.007415"},{"I":1080,"V":"5"},{"I":6691,"V":"36.670591"},{"I":1086,"V":"6"},{"I":5102,"V":"\u9b4f\u5bb6\u5e84\u8def\u4e07\u8fbe\u516c\u9986\u8c6a\u666f\u82d1"},{"I":1085,"V":"4"},{"I":9278,"V":"+m9V4VmtaI\/Nsu8fJejd4Q"},{"I":5378,"V":""},{"I":1078,"V":"589"},{"I":1077,"V":"0"},{"I":5923,"V":"568764155"}],"_trackPageview":"\/house\/rentDetail","supplycount":"{\"paramdata\":{\"MinPrice\":589,\"huxingting\":\"2\",\"huxingshi\":\"3\",\"huxingwei\":\"3\",\"jushishuru\":1,\"HireType\":\"\"}}","ssp_abtest":"legoC_fc","slotIds":"8,16,1000170,1000014,1000015,1000016,1000017,1000018","req_version":"1.0.0"};
+            ____json4fe.sid = '141696488198726263153776265';
+            ____json4fe.pid = '756';
+            ____json4fe.sessionid = '';
+            ____json4fe.newImVersion = true;
+            ____json4fe.xiaoquSubway = [];
+            ____json4fe.privacyCallUrl = '';
+            ____json4fe.brokerUrl = '';
+        } catch (e) {
+        }
+        //GA统计
+        var _gaq = [];
+        //加置顶购买入口
+        tgbanner = {};
+    </script>
+    <!-- 基本js -->
+    <script type="text/javascript"
+            src="http://api.map.baidu.com/getscript?v=2.0&ak=HMGGFLlFgfiS3GLnB2f8AidAGmn8YAuf"></script>
+    <script data-main="//j1.58cdn.com.cn/fangrs/pc-site/pages/esf/detail_v20171225164013.js"
+            src="//j1.58cdn.com.cn/fangrs/pc-site/global_v20171121160107.js"></script>
+    <script src="//j1.58cdn.com.cn/fangrs/pc-site/base_v20171220172350.js"></script>
+    <script src="//j1.58cdn.com.cn/js/login/floatLayerLogin_v20170221150059.js"></script>
+    <script src="//j1.58cdn.com.cn/webim/js/entry_v20180116180307.js"></script>
+</head>
+
+<body>
+<div id="commonTopbar" class="commonTopbar"></div>
+<script type="text/javascript">
+    window.wbAsyncInit = function wbAsyncInit(CL) {
+        CL.invoke('topbar', {
+            aroundCity: false,
+            weather: false,
+            appQR: true, // homepage QR
+            homepageLink: true,
+            size: 'default' // default: 1190px, narrow: 1000px
+        });
+        /**
+         * 统一收藏弹窗 顶部 + 右侧
+         */
+        CL.invoke('popcollection', {
+            clickBtn: $('.clt-btn'),
+            source: "passport",
+            infoid: ____json4fe.infoid,
+            cateid: ____json4fe.catentry && ____json4fe.catentry.dispid || '',
+            callback: function () {
+                $('.clt-btn').collectHouse(function (res, check) {
+                    // 根据返回结果判断是添加收藏还是取消收藏，并更新收藏数据
+                    var countInit = check ? (res.data.count || 0) : ($('#collectCount').length ? parseInt($('#collectCount').html()) : 0);
+                    if (res.data.result) {
+                        $('#collectHouseTop,#collectHouseRight').removeClass('off').addClass('on');
+                        $('#collectHouseRight').find('.cword').html('取消<br/>收藏');
+                    } else {
+                        $('#collectHouseTop,#collectHouseRight').removeClass('on').addClass('off');
+                        $('#collectHouseRight').find('.cword').html('加入<br/>收藏');
+                    }
+                    $('#collectCount').html(countInit);
+                });
+            }
+        });
+    };
+</script>
+<!--头部广告-->
+<div id="brand_detial_top_banner" class="brandad1000"></div>
+<!--头部-->
+<div class="header-wrap clearfix">
+    <a class="logo fl" href="http://bj.58.com/house.shtml" target="_blank"
+       onclick="clickLog('from=fcpc_detail_esf_jn_58fclogo')"></a>
+    <a class="top-publish-news fr" href="http://post.58.com/fang/265/12/s5" target="_blank"
+       onclick="clickLog('from=fcpc_detail_esf_jn_mffabu')">免费发布</a>
+    <div class="search-section">
+        <input class='search-input' type="text" value="" fdv="" id="keyword1" name="b_q" para="key" autocomplete="off"
+               placeholder='请输入房源相关信息'>
+        <i class='icon'></i>
+        <span class='search-btn' id='searchBtn'>搜房源</span>
+        <ul class='search-infolist' id='searchList'>
+        </ul>
+    </div>
+    <div class="nav-top-bar fl c_888 f12">
+
+                            <a href="/" target="_blank">济南58同城 </a>
+                                        > <a
+                        href="/jnshizhong/ershoufang/"
+                        target="_blank">市中二手房 </a>
+                                        > <a
+                        href="/jnwandagc/ershoufang/"
+                        target="_blank">万达广场二手房 </a>
+                        </div>
+</div>
+<!--房源信息-->
+<div class="main-wrap">
+    <!--房源题目-->
+    <div class="house-title">
+        <h1 class="c_333 f20">万达广场豪景 3室2厅3卫 236平米</h1>
+        <p class="house-update-info">
+                            <span class='up' id=''>1小时前</span>
+                        <span class='up'><em id='totalcount'>0</em>人已浏览</span>
+        </p>
+        <div class="title-right-info f12">
+                        <a id="collectHouseTop" class="collect-house c_999 off ml_20 clt-btn" href="javascript:;"
+               onclick="clickLog('from=fcpc_detail_esf_jn_collect')">
+                <div class='top c_555 f14 lh18'><i class="collectIcon icon"></i>
+                    <div class="f12">收藏</div>
+                </div>
+                <!-- <em id="collectCount">0</em>人气</a> -->
+                            <a id="defraudHouse" class="defraud-house c_888 ml_20" href="javascript:;"><i
+                        class="defraudIcon icon"></i>举报</a>
+                    </div>
+
+        <div id="manageBar" class="manage-wrap">
+            <i class="jianjiao icon"></i>
+
+            <a id="gaq_update" class="ab" href="javascript:;" target="_blank"
+               onclick="clickLog('from=fcpc_detail_esf_jn_guanli_update')">修改</a>
+            <a id="gaq_delete" class="ab" href="javascript:;" target="_blank"
+               onclick="clickLog('from=fcpc_detail_esf_jn_guanli_delete')">删除</a>
+            <a id="gaq_refresh" class="ab" href="javascript:;" target="_blank"
+               onclick="clickLog('from=fcpc_detail_esf_jn_guanli_refresh')">刷新</a>
+            <a class="ab" href="http://infotopweb.union.vip.58.com/infotopnet/trytop/>/101110010" target="_blank" rel="nofollow"
+               onclick="clickLog('from=fcpc_detail_esf_jn_guanli_zhiding')">置顶</a>
+        </div>
+        <div id="reportBar" class="report-column pr" style="display: none;">
+            <i class="jianjiao icon"></i>
+            <a class="ab" href="http://about.58.com/info/deleteinfo.aspx" target="_blank"
+               onclick="clickLog('from=fcpc_detail_esf_jn_jubao_dianhuamy')">电话被冒用</a>
+            <a class="ab" href="http://about.58.com/vote/pc?infoId=32699717499843"
+               onclick="clickLog('from=fcpc_detail_esf_jn_jubao_xxxujia')"
+               target="_blank">信息虚假</a>
+            <a class="ab" href="http://110.58.com/?postId=32699717499843&amp;category=1001"
+               onclick="clickLog('from=fcpc_detail_esf_jn_jubao_baoan')"
+               target="_blank">我要报案</a>
+        </div>
+    </div>
+    <!--房源基本信息-->
+    <div class="house-basic-info clearfix">
+        <div class="house-basic-pic fl" id='houseBasicPic'>
+            <div id="bigImg" class="basic-top-bigpic pr "
+                 onclick="clickLog('from=fcpc_detail_esf_jn_bigpicture')">
+                <!-- 视频加1 start -->
+                                <!-- 视频加1 end -->
+                <img id="smainPic" src="http://pic8.58cdn.com.cn/p1/big/n_v290642d76d7e44350a726cdd7f4aa17cb.jpg">
+                <!--左上角房源大图一张-->
+                <span id="sImgNu" class="leftNum pa f12"></span>
+
+                <div class="basic-pic-load" id="loadingSmall">
+                    <div class="top icon"></div>
+                    <div class="bottom icon"></div>
+                </div>
+
+                <!-- 视频加2 start -->
+                                <!-- 视频加2 end -->
+
+            </div>
+                        <div class="basic-pic-list pr">
+                <ul id="leftImg" class="pic-list-wrap pa"
+                    onclick="clickLog('from=fcpc_detail_esf_jn_tupian_click')">
+
+                    <!--基本信息小图-->
+                                                <li id="xtu_1"  class="actives"                                 data-value="http://pic8.58cdn.com.cn/p1/big/n_v290642d76d7e44350a726cdd7f4aa17cb.jpg?w=700&h=480&crop=1"><!--轮播图点击之后的大图-->
+                                <img data-value="http://pic8.58cdn.com.cn/p1/big/n_v290642d76d7e44350a726cdd7f4aa17cb.jpg?w=242&h=150&crop=1"
+                                     src="http://pic8.58cdn.com.cn/p1/big/n_v290642d76d7e44350a726cdd7f4aa17cb.jpg?w=242&h=150&crop=1">
+                                <!--data-value和src值相同  小图的尺寸-->
+                            </li>
+                                                    <li id="xtu_2"                                 data-value="http://pic3.58cdn.com.cn/p1/big/n_v24ff97a6035f3446b8c3e40e320b2ee47.jpg?w=700&h=480&crop=1"><!--轮播图点击之后的大图-->
+                                <img data-value="http://pic3.58cdn.com.cn/p1/big/n_v24ff97a6035f3446b8c3e40e320b2ee47.jpg?w=242&h=150&crop=1"
+                                     src="http://pic3.58cdn.com.cn/p1/big/n_v24ff97a6035f3446b8c3e40e320b2ee47.jpg?w=242&h=150&crop=1">
+                                <!--data-value和src值相同  小图的尺寸-->
+                            </li>
+                                                    <li id="xtu_3"                                 data-value="http://pic4.58cdn.com.cn/p1/big/n_v2cca560725fab4d7887dec71615cb9680.jpg?w=700&h=480&crop=1"><!--轮播图点击之后的大图-->
+                                <img data-value="http://pic4.58cdn.com.cn/p1/big/n_v2cca560725fab4d7887dec71615cb9680.jpg?w=242&h=150&crop=1"
+                                     src="http://pic4.58cdn.com.cn/p1/big/n_v2cca560725fab4d7887dec71615cb9680.jpg?w=242&h=150&crop=1">
+                                <!--data-value和src值相同  小图的尺寸-->
+                            </li>
+                                                    <li id="xtu_4"                                 data-value="http://pic6.58cdn.com.cn/p1/big/n_v2415fcfd611664d448d29fa70c3fe9052.jpg?w=700&h=480&crop=1"><!--轮播图点击之后的大图-->
+                                <img data-value="http://pic6.58cdn.com.cn/p1/big/n_v2415fcfd611664d448d29fa70c3fe9052.jpg?w=242&h=150&crop=1"
+                                     src="http://pic6.58cdn.com.cn/p1/big/n_v2415fcfd611664d448d29fa70c3fe9052.jpg?w=242&h=150&crop=1">
+                                <!--data-value和src值相同  小图的尺寸-->
+                            </li>
+                                                    <li id="xtu_5"                                 data-value="http://pic4.58cdn.com.cn/p1/big/n_v276ea13faa9de413e91b6bea1408840c9.jpg?w=700&h=480&crop=1"><!--轮播图点击之后的大图-->
+                                <img data-value="http://pic4.58cdn.com.cn/p1/big/n_v276ea13faa9de413e91b6bea1408840c9.jpg?w=242&h=150&crop=1"
+                                     src="http://pic4.58cdn.com.cn/p1/big/n_v276ea13faa9de413e91b6bea1408840c9.jpg?w=242&h=150&crop=1">
+                                <!--data-value和src值相同  小图的尺寸-->
+                            </li>
+                                                    <li id="xtu_6"                                 data-value="http://pic2.58cdn.com.cn/p1/big/n_v24c126eb3bb4b49e08142c33658840c43.jpg?w=700&h=480&crop=1"><!--轮播图点击之后的大图-->
+                                <img data-value="http://pic2.58cdn.com.cn/p1/big/n_v24c126eb3bb4b49e08142c33658840c43.jpg?w=242&h=150&crop=1"
+                                     src="http://pic2.58cdn.com.cn/p1/big/n_v24c126eb3bb4b49e08142c33658840c43.jpg?w=242&h=150&crop=1">
+                                <!--data-value和src值相同  小图的尺寸-->
+                            </li>
+                                                    <li id="xtu_7"                                 data-value="http://pic6.58cdn.com.cn/p1/big/n_v25e678658d5794081819979d80f2e4a53.jpg?w=700&h=480&crop=1"><!--轮播图点击之后的大图-->
+                                <img data-value="http://pic6.58cdn.com.cn/p1/big/n_v25e678658d5794081819979d80f2e4a53.jpg?w=242&h=150&crop=1"
+                                     src="http://pic6.58cdn.com.cn/p1/big/n_v25e678658d5794081819979d80f2e4a53.jpg?w=242&h=150&crop=1">
+                                <!--data-value和src值相同  小图的尺寸-->
+                            </li>
+                                                    <li id="xtu_8"                                 data-value="http://pic8.58cdn.com.cn/p1/big/n_v2b69b360f37dd493a87ac36ead6a68937.jpg?w=700&h=480&crop=1"><!--轮播图点击之后的大图-->
+                                <img data-value="http://pic8.58cdn.com.cn/p1/big/n_v2b69b360f37dd493a87ac36ead6a68937.jpg?w=242&h=150&crop=1"
+                                     src="http://pic8.58cdn.com.cn/p1/big/n_v2b69b360f37dd493a87ac36ead6a68937.jpg?w=242&h=150&crop=1">
+                                <!--data-value和src值相同  小图的尺寸-->
+                            </li>
+                                                    <li id="xtu_9"                                 data-value="http://pic2.58cdn.com.cn/p1/big/n_v21a86767fe7ce4c0fb16e9d962fa38c07.jpg?w=700&h=480&crop=1"><!--轮播图点击之后的大图-->
+                                <img data-value="http://pic2.58cdn.com.cn/p1/big/n_v21a86767fe7ce4c0fb16e9d962fa38c07.jpg?w=242&h=150&crop=1"
+                                     src="http://pic2.58cdn.com.cn/p1/big/n_v21a86767fe7ce4c0fb16e9d962fa38c07.jpg?w=242&h=150&crop=1">
+                                <!--data-value和src值相同  小图的尺寸-->
+                            </li>
+                                                    <li id="xtu_10"                                 data-value="http://pic5.58cdn.com.cn/p1/big/n_v2187d7a003d474a0f9316ab7ba1c932d5.jpg?w=700&h=480&crop=1"><!--轮播图点击之后的大图-->
+                                <img data-value="http://pic5.58cdn.com.cn/p1/big/n_v2187d7a003d474a0f9316ab7ba1c932d5.jpg?w=242&h=150&crop=1"
+                                     src="http://pic5.58cdn.com.cn/p1/big/n_v2187d7a003d474a0f9316ab7ba1c932d5.jpg?w=242&h=150&crop=1">
+                                <!--data-value和src值相同  小图的尺寸-->
+                            </li>
+                                        </ul>
+                                <a id="slbt" class="basic-pic-left pa" href="javascript:void(0);"
+                   onclick="clickLog('from=fcpc_detail_esf_jn_tupian_last')">
+                    <i class='icon'></i>
+                </a>
+                <a id="srbt" class="basic-pic-right pa" href="javascript:void(0);"
+                   onclick="clickLog('from=fcpc_detail_esf_jn_tupian_next')">
+                    <i class='icon'></i>
+                </a>
+            </div>
+        </div>
+        <div class="house-basic-right fr">
+            <p class="house-basic-item1">
+                <span class="price">589<b>万</b></span>&nbsp;&nbsp;&nbsp;&nbsp;<span
+                    class="unit">24957                    元/平</span>
+                                <span class='ml_16'>
+                    <a href="http://cha.58.com/calc/fang_loan.html?price=589&PGTID=0d40000c-0142-1070-8f9b-d51606cd7268&ClickID=4" target='_blank' class="td-u" onclick="clickLog('from=fcpc_detail_esf_bj_fdjsq')">
+                        <i class='fdjsqIcon icon'></i>房贷计算器</a>
+                </span>
+            </p>
+            <div class="house-basic-item2">
+                <p class="room">
+                    <span
+                        class="main">3室2厅3卫</span>
+                    <span
+                        class="sub">低层/共30层</span>
+                </p>
+                <p class="area">
+                    <span
+                        class="main">236平</span>
+                    <span
+                        class="sub">豪华装修</span>
+                </p>
+                <p class="toward">
+                    <span
+                        class="main">南北</span>
+                    <span
+                        class="sub">2012年建</span>
+                </p>
+            </div>
+            <ul class="house-basic-item3">
+                <li>
+                    <span class='c_999'>小区：</span>
+                    <span class='c_000 mr_10'>
+                        万达广场豪景苑大平层豪装                     </span>
+                </li>
+                            </ul>
+            <!-- 经纪人信息样式和内容改版 2017.12.07 start-->
+            <div class="side-right-wrap agent-info"></div>
+            <!-- 经纪人信息样式和内容改版 2017.12.07 end-->
+            <div class="house-chat-entry clearfix" id='houseChatEntry'>
+                <div class="house-chat-phone">
+                    <p class='phone-logo'><i class='icon phone-icon'></i></p>
+                    <p class='chat-phone-layer show-phone'
+                       onclick="clickLog('from=fcpc_detail_esf_jn_call');this.style.display='none'">电话联系TA</p>
+                    <p class='phone-num'>15554155676</p>
+                    <p class='phone-belong'>
+                                                    <span>电话归属地 : 济南</span>&nbsp;&nbsp;&nbsp;&nbsp;
+                                                    <a href="http://my.58.com/mobileposthistory/?hidemobile=1&query=4C771E710C97D203C736B5780E29CB01B33536F53D6D35C4,50615803240461,1" target='_blank'
+                               onclick="clickLog('from=fcpc_detail_esf_jn_yifatiezi')">查看发帖记录</a>
+                                            </p>
+                </div>
+                <!-- 更改 start -->
+                <a href='javascript:;' class="house-chat-im im-chat im-offline im-off"
+                   data-im="%7B%22rootcateid%22%3A1%2C%22cateid%22%3A12%2C%22userid%22%3A50615803240461%2C%22postid%22%3A32699717499843%7D"
+                   onclick="clickLog('from=pc_detail_im_fc_esf_click')">
+                    <i class="im-icon icon"></i>微聊
+                </a>
+                <!-- 更改 end -->
+            </div>
+        </div>
+    </div>
+    <div class="house-detail-info">
+        <div class="house-detail-left">
+            <!-- 房源二维码 -->
+            <div class="side-left-wrap house-erweima">
+                <p class="maintitle">手机看房源</p>
+                <p class="subtitle">微信、58APP扫一扫</p>
+                <img
+                    src="http://api.vip.58.com/genqrcode?margin=0&size=100x100&content=http://m.58.com/jn/ershoufang/32699717499843x.shtml"
+                    alt="" class="">
+            </div>
+            <!-- 经纪人信息 改到右侧 此处下掉-->
+            
+            <!-- 经纪人服务 -->
+                        <!-- 经纪人公司 -->
+                        <!-- 安选房源 -->
+            <div class="anxuan-house" id='anXuanHouse'></div>
+            <!-- 经纪人其他房源 -->
+            <div class="agent-other-house" id='agentOtherHouse'>
+            </div>
+            <!-- 谷歌广告 -->
+            <div id='sideAD'></div>
+
+        </div>
+        <div class="house-detail-right">
+            <!-- 浮动导航条 -->
+            <div class="house-origin-nav" id='originNav'>
+                <ul class='nav-menu'>
+
+                    <li class='cur' jumpto='generalSituation'
+                        onclick="clickLog('from=fcpc_detail_esf_jn_xiding_gaikuang')">概况
+                    </li>
+                    <li jumpto='generalDesc'
+                        onclick="clickLog('from=fcpc_detail_esf_jn_xiding_miaoshu')">描述
+                    </li>
+                    <li jumpto='generalExpense'
+                        onclick="clickLog('from=fcpc_detail_esf_jn_xiding_feiyong')">费用
+                    </li>
+                                        <li jumpto='generalType'
+                        onclick="clickLog('from=fcpc_detail_esf_jn_xiding_huxing')">户型
+                    </li>
+                                    </ul>
+            </div>
+            <!-- 概况 start -->
+            <div class="general-item general-situation" id='generalSituation'>
+                <h3><em></em>概况</h3>
+                <div class="general-item-wrap">
+                    <ul class='general-item-left'>
+                                                    <li><span class='mr_25 c_999'>房屋总价</span><span
+                                    class='c_000'>589万(单价 24957元/㎡)</span>
+                            </li>
+                                                    <li><span class='mr_25 c_999'>房屋户型</span><span
+                                    class='c_000'>3室2厅3卫</span></li>
+                                                    <li><span class='mr_25 c_999'>房本面积</span><span
+                                    class='c_000'>236㎡</span></li>
+                                                    <li><span class='mr_25 c_999'>房屋朝向</span><span
+                                    class='c_000'>南北</span></li>
+                                            </ul>
+                    <ul class='general-item-right'>
+                                                    <li><span class='mr_25 c_999'>所在楼层</span><span
+                                    class='c_000'>低层/共30层</span></li>
+                                                    <li><span class='mr_25 c_999'>装修情况</span>
+                                <span class='c_000'>豪华装修</span>
+                            <span class='ml_16'><a
+                                    href="/jnwandagc/jiazhuang/"
+                                    target='_blank' class="td-u"
+                                    onclick="clickLog('from=fcpc_detail_esf_jn_zhaozhuangxiu')">
+                                    <i class='zzqIcon icon'></i>找装修</a>
+                            </span>
+                            </li>
+                                                    <li><span class='mr_25 c_999'>产权年限</span><span
+                                    class='c_000'>70年</span>
+                            </li>
+                                                    <li><span class='mr_25 c_999'>建筑年代</span><span
+                                    class='c_000'>2012年</span></li>
+                                            </ul>
+                </div>
+            </div>
+            <!-- 概况 end -->
+
+
+            <!-- 描述 start 2017.05.27 zjz add-->
+            <div class="general-item general-desc" id='generalDesc'>
+                <h3><em></em>描述</h3>
+                <div class="general-item-wrap">
+                                            <div class="genaral-pic-desc">
+                            <span class='pic-desc-item'>核心卖点<i
+                                    class='sanjiaoIcon icon'></i></span>
+                            <p class='pic-desc-word'>
+                                <p>户型优势：<br /></p><p>该豪宅位于市中心核心地段，出行方便四通八达，4.3.5.18.49.50.101.103等8路公交</p><p>购物娱乐设施齐全，生活就医非常方便，距齐鲁医院，省立医院5分钟车程</p><p>市区唯一纯豪宅区（房型均在235㎡以上），住户品质高，比邻万达和绿地两个地标式购物中心，距著名的泉城路商圈5分钟车程，步行10分钟可分别到达5A趵突泉公园和4A大明湖公园、</p><p>小区封闭物管，典型的入则宁静，出则繁华，业主的可免费进入经五路小学和实验初中</p><p>房子不受限购的影响，全国各地有投资需求的，均可以抓住机会，<strong>不限购！</strong></p><p>可在银行房屋按揭 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><br /><br />装修优势：送80万大理石豪装，全套德国进口厨房用具，德国进口卫浴，价值10万进口双开装<br /><br />产权情况：成交后法院配合，7天过户<span style="font-size: 12px;"></span><br /></p></p>
+                        </div>
+                                    </div>
+            </div>
+            <!-- 描述 end -->
+
+
+            <!-- 费用 start -->
+            <div class="general-item general-expense" id='generalExpense'>
+                <h3><em></em>费用</h3>
+                <div class="general-item-wrap">
+                    <ul class='general-item-left'>
+                        <li><span class='mr_25 c_999'>房屋总价</span>
+                            <span class='c_000'>589                                万（单价24957                                元/㎡）</span>
+                            <span class='ml_16'><a href="http://jinrong.58.com/kop?from=58_jinrong__esf_cdq_detail"
+                                                   target='_blank' class="td-u"
+                                                   onclick="clickLog('from=fcpc_detail_esf_jn_bangnicouqian')"><i
+                                        class='bncqIcon icon'></i>帮你凑钱</a></span>
+                        </li>
+                                                    <li><span class='mr_25 c_999'>交易权属</span><span
+                                    class='c_000'>商品房</span></li>
+                                            </ul>
+                    <ul class='general-item-right'>
+                        <li><span class='mr_25 c_999'>参考首付</span>
+                            <span class='c_000'>176.7                                万（月供16905元/月）</span>
+                        </li>
+                                            </ul>
+                </div>
+            </div>
+            <!-- 费用 end -->
+            <!-- 同价位你可能感兴趣的房源 start -->
+            <div id="houseWithInterest">
+            </div>
+            <!-- 同价位end -->
+
+            <!-- 房主 start -->
+                        <!-- 房主 end -->
+            <!-- 声光 start -->
+                        <!-- 声光 end -->
+            <!-- 户型 start -->
+            <div class="general-item general-type" id='generalType'>
+                <h3><em></em>户型</h3>
+                <div class="general-item-wrap">
+
+                                            <ul class='general-pic-list'
+                            onclick="clickLog('from=fcpc_detail_esf_jn_fyms_tupian_click')">
+                                                            <li class="even" data-index='0'>
+                                    <img data-src="http://pic8.58cdn.com.cn/p1/big/n_v290642d76d7e44350a726cdd7f4aa17cb.jpg?w=454&h=341&crop=1">
+                                </li>
+                                                            <li data-index='1'>
+                                    <img data-src="http://pic3.58cdn.com.cn/p1/big/n_v24ff97a6035f3446b8c3e40e320b2ee47.jpg?w=454&h=341&crop=1">
+                                </li>
+                                                            <li class="even" data-index='2'>
+                                    <img data-src="http://pic4.58cdn.com.cn/p1/big/n_v2cca560725fab4d7887dec71615cb9680.jpg?w=454&h=341&crop=1">
+                                </li>
+                                                            <li data-index='3'>
+                                    <img data-src="http://pic6.58cdn.com.cn/p1/big/n_v2415fcfd611664d448d29fa70c3fe9052.jpg?w=454&h=341&crop=1">
+                                </li>
+                                                            <li class="even" data-index='4'>
+                                    <img data-src="http://pic4.58cdn.com.cn/p1/big/n_v276ea13faa9de413e91b6bea1408840c9.jpg?w=454&h=341&crop=1">
+                                </li>
+                                                            <li data-index='5'>
+                                    <img data-src="http://pic2.58cdn.com.cn/p1/big/n_v24c126eb3bb4b49e08142c33658840c43.jpg?w=454&h=341&crop=1">
+                                </li>
+                                                            <li class="even" data-index='6'>
+                                    <img data-src="http://pic6.58cdn.com.cn/p1/big/n_v25e678658d5794081819979d80f2e4a53.jpg?w=454&h=341&crop=1">
+                                </li>
+                                                            <li data-index='7'>
+                                    <img data-src="http://pic8.58cdn.com.cn/p1/big/n_v2b69b360f37dd493a87ac36ead6a68937.jpg?w=454&h=341&crop=1">
+                                </li>
+                                                            <li class="even" data-index='8'>
+                                    <img data-src="http://pic2.58cdn.com.cn/p1/big/n_v21a86767fe7ce4c0fb16e9d962fa38c07.jpg?w=454&h=341&crop=1">
+                                </li>
+                                                            <li data-index='9'>
+                                    <img data-src="http://pic5.58cdn.com.cn/p1/big/n_v2187d7a003d474a0f9316ab7ba1c932d5.jpg?w=454&h=341&crop=1">
+                                </li>
+                                                    </ul>
+                                    </div>
+            </div>
+            <!-- 户型 end -->
+            <!-- 小区及周边环境 start-->
+                        <!-- 小区及周边环境 end -->
+            <!--位置 start-->
+                        <!-- 位置end -->
+            <!-- 小结 start -->
+                        <!-- 小结 end -->
+            <div id="guessYouLike">
+            </div>
+            <!-- 看了又看start -->
+            <div id="seeAgainSee">
+            </div>
+            <!-- 看了又看end -->
+            <!-- 同商圈热门 start -->
+            <div id="hotHouse">
+            </div>
+            <!-- 同商圈热门 end -->
+            <!-- 购房贷款start -->
+            <div class="loan-purshasing-house ">
+                <p class="loan-nav ">购房贷款</p>
+                <ul class="loan-list ">
+                    <li class='first'>
+                        <div class="loan-logo-1 loan-logo"></div>
+                        <p class="loan-title ">首套置业</p>
+                        <p class="loan-desc-1 ">银行按揭贷款服务 </p>
+                        <p class="loan-desc-2 "> 房屋评估价65成&nbsp;/ 30年&nbsp;/&nbsp;基准利率<em>8.5</em>折起</p>
+                        <a href='http://jinrong.58.com/normal/loan/officer?from=58_pc_esf_detail_zhiye' target="_blank"  class="loan-apply" data-daikuanyt='按揭'
+                           onclick="clickLog('from=fcpc_detail_esf_jn_daikuan_no1')">快速申请</a>
+                    </li>
+                    <li>
+                        <div class="loan-logo-2 loan-logo"></div>
+                        <p class="loan-title ">凑首付</p>
+                        <p class="loan-desc-1 ">无抵押&nbsp;零担保</p>
+                        <p class="loan-desc-2 "> 最高50万&nbsp;／&nbsp;1-3年&nbsp;/&nbsp;月利率低至<em>0.9%</em></p>
+                        <a href='http://jinrong.58.com/normal/loan/officer?from=58_pc_esf_detail_csf' target="_blank" class="loan-apply" data-daikuanyt='凑首付'
+                           onclick="clickLog('from=fcpc_detail_esf_jn_daikuan_no2')">快速申请</a>
+                    </li>
+                    <li>
+                        <div class="loan-logo-3 loan-logo"></div>
+                        <p class="loan-title ">装修贷款</p>
+                        <p class="loan-desc-1 ">银行按揭贷款服务</p>
+                        <p class="loan-desc-2 "> 最高50万&nbsp;/&nbsp;1-2年&nbsp;/&nbsp;月利率低至<em>免息</em></p>
+                        <a href='http://jinrong.58.com/normal/loan/officer?from=58_pc_esf_detail_zhuangxiu' target="_blank" class="loan-apply" data-daikuanyt='装修'
+                           onclick="clickLog('from=fcpc_detail_esf_jn_daikuan_no3')">快速申请</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="bottom-google-ad">
+                <div id="googlead_list"></div>
+            </div>
+        </div>
+    </div>
+    <!-- 其他推荐 start-->
+    <div class="other-series-recommend ">
+                    <ul class="other-series-nav f14 c_888 " id="rec-bottom-nav ">
+                <li data-key="0 " class="on ">热门搜索</li>
+            </ul>
+            <ul class="other-detail-introduce f12 c_888 " id="rec-bottom-list ">
+                <li data-key="0" class="on">
+                                            <a href="jh_%E5%95%86%E4%BD%8F%E4%B8%A4%E7%94%A8%E6%88%BF/" target="_blank ">商住两用房</a>
+                                            <a href="jh_%E4%BB%B7%E9%92%B1%E5%8F%AF%E8%AE%AE%E4%BA%8C%E6%89%8B%E6%88%BF/" target="_blank ">价钱可议二手房</a>
+                                            <a href="jh_%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BB%B7%E6%A0%BC/" target="_blank ">二手房价格</a>
+                                            <a href="jh_%E5%A4%A7%E8%BD%A6%E4%BD%8D%E4%BA%8C%E6%89%8B%E6%88%BF%E5%87%BA%E5%94%AE/" target="_blank ">大车位二手房出售</a>
+                                            <a href="jh_%E5%9C%B0%E9%93%81%E6%88%BF/" target="_blank ">地铁房</a>
+                                            <a href="jh_%E5%87%BA%E5%94%AE%E4%BA%8C%E6%89%8B%E6%88%BF/" target="_blank ">出售二手房</a>
+                                            <a href="jh_%E4%BA%8C%E6%89%8B%E6%88%BF%E5%AD%90/" target="_blank ">二手房子</a>
+                                    </li>
+            </ul>
+            </div>
+    <!-- 其他推荐 end -->
+</div>
+<!-- 浮动卡 start -->
+<div class="house-float-nav" id='floatNav'>
+    <div class='phone-sec'>
+        <p class='show-phone' onclick="clickLog('from=fcpc_detail_esf_jn_xiding_call');this.style.display='none'">
+            电话联系TA</p>
+        <p class='phone-num-2'>15554155676</p>
+    </div>
+    <ul class='float-nav-list'>
+        <li jumpto='generalSituation'
+            onclick="clickLog('from=fcpc_detail_esf_jn_xiding_gaikuang')">概况
+        </li>
+        <li jumpto='generalDesc'
+            onclick="clickLog('from=fcpc_detail_esf_jn_xiding_miaoshu')">描述
+        </li>
+        <li jumpto='generalExpense'
+            onclick="clickLog('from=fcpc_detail_esf_jn_xiding_feiyong')">费用
+        </li>
+                <li jumpto='generalType' onclick="clickLog('from=fcpc_detail_esf_jn_xiding_huxing')">
+            户型
+        </li>
+            </ul>
+</div>
+<!-- 浮动卡  end -->
+<!-- 右侧挂件 start -->
+<div id="right_gj">
+</div>
+<!-- 右侧挂件 end -->
+<!-- 大图模式 start -->
+<div class="piclayer"></div>
+<div class="picmask">
+    <div class="big-top-bigpic pr ">
+        <img id="mainPic" src="http://pic8.58cdn.com.cn/p1/big/n_v290642d76d7e44350a726cdd7f4aa17cb.jpg"><!--点击图片弹出相册的大图 原图-->
+        <div class="big-pic-load" id="loadingBig ">
+            <div class="top icon"></div>
+            <div class="bottom icon"></div>
+        </div>
+
+    </div>
+        <div class="big-pic-list pr" style='display:none'>
+        <ul id="smallPic" class="bigpic-list-wrap pa "><!--点击图片弹出相册的小图 页面不展示-->
+
+            <!--基本信息小图-->
+                                <li id="xtu_1"  class="actives"                         data-value="http://pic8.58cdn.com.cn/p1/big/n_v290642d76d7e44350a726cdd7f4aa17cb.jpg"><!--点击图片弹出相册的小图 页面不展示-->
+                        <img src="http://pic8.58cdn.com.cn/p1/big/n_v290642d76d7e44350a726cdd7f4aa17cb.jpg?w=242&h=150&crop=1"><!--小图的尺寸-->
+                        <p style='none'></p>
+                    </li>
+                                        <li id="xtu_2"                         data-value="http://pic3.58cdn.com.cn/p1/big/n_v24ff97a6035f3446b8c3e40e320b2ee47.jpg"><!--点击图片弹出相册的小图 页面不展示-->
+                        <img src="http://pic3.58cdn.com.cn/p1/big/n_v24ff97a6035f3446b8c3e40e320b2ee47.jpg?w=242&h=150&crop=1"><!--小图的尺寸-->
+                        <p style='none'></p>
+                    </li>
+                                        <li id="xtu_3"                         data-value="http://pic4.58cdn.com.cn/p1/big/n_v2cca560725fab4d7887dec71615cb9680.jpg"><!--点击图片弹出相册的小图 页面不展示-->
+                        <img src="http://pic4.58cdn.com.cn/p1/big/n_v2cca560725fab4d7887dec71615cb9680.jpg?w=242&h=150&crop=1"><!--小图的尺寸-->
+                        <p style='none'></p>
+                    </li>
+                                        <li id="xtu_4"                         data-value="http://pic6.58cdn.com.cn/p1/big/n_v2415fcfd611664d448d29fa70c3fe9052.jpg"><!--点击图片弹出相册的小图 页面不展示-->
+                        <img src="http://pic6.58cdn.com.cn/p1/big/n_v2415fcfd611664d448d29fa70c3fe9052.jpg?w=242&h=150&crop=1"><!--小图的尺寸-->
+                        <p style='none'></p>
+                    </li>
+                                        <li id="xtu_5"                         data-value="http://pic4.58cdn.com.cn/p1/big/n_v276ea13faa9de413e91b6bea1408840c9.jpg"><!--点击图片弹出相册的小图 页面不展示-->
+                        <img src="http://pic4.58cdn.com.cn/p1/big/n_v276ea13faa9de413e91b6bea1408840c9.jpg?w=242&h=150&crop=1"><!--小图的尺寸-->
+                        <p style='none'></p>
+                    </li>
+                                        <li id="xtu_6"                         data-value="http://pic2.58cdn.com.cn/p1/big/n_v24c126eb3bb4b49e08142c33658840c43.jpg"><!--点击图片弹出相册的小图 页面不展示-->
+                        <img src="http://pic2.58cdn.com.cn/p1/big/n_v24c126eb3bb4b49e08142c33658840c43.jpg?w=242&h=150&crop=1"><!--小图的尺寸-->
+                        <p style='none'></p>
+                    </li>
+                                        <li id="xtu_7"                         data-value="http://pic6.58cdn.com.cn/p1/big/n_v25e678658d5794081819979d80f2e4a53.jpg"><!--点击图片弹出相册的小图 页面不展示-->
+                        <img src="http://pic6.58cdn.com.cn/p1/big/n_v25e678658d5794081819979d80f2e4a53.jpg?w=242&h=150&crop=1"><!--小图的尺寸-->
+                        <p style='none'></p>
+                    </li>
+                                        <li id="xtu_8"                         data-value="http://pic8.58cdn.com.cn/p1/big/n_v2b69b360f37dd493a87ac36ead6a68937.jpg"><!--点击图片弹出相册的小图 页面不展示-->
+                        <img src="http://pic8.58cdn.com.cn/p1/big/n_v2b69b360f37dd493a87ac36ead6a68937.jpg?w=242&h=150&crop=1"><!--小图的尺寸-->
+                        <p style='none'></p>
+                    </li>
+                                        <li id="xtu_9"                         data-value="http://pic2.58cdn.com.cn/p1/big/n_v21a86767fe7ce4c0fb16e9d962fa38c07.jpg"><!--点击图片弹出相册的小图 页面不展示-->
+                        <img src="http://pic2.58cdn.com.cn/p1/big/n_v21a86767fe7ce4c0fb16e9d962fa38c07.jpg?w=242&h=150&crop=1"><!--小图的尺寸-->
+                        <p style='none'></p>
+                    </li>
+                                        <li id="xtu_10"                         data-value="http://pic5.58cdn.com.cn/p1/big/n_v2187d7a003d474a0f9316ab7ba1c932d5.jpg"><!--点击图片弹出相册的小图 页面不展示-->
+                        <img src="http://pic5.58cdn.com.cn/p1/big/n_v2187d7a003d474a0f9316ab7ba1c932d5.jpg?w=242&h=150&crop=1"><!--小图的尺寸-->
+                        <p style='none'></p>
+                    </li>
+                    
+        </ul>
+    </div>
+        <a id="blbt" class="big-pic-left pa " href="javascript:void(0);"
+       onclick="clickLog('from=fcpc_detail_esf_jn_fyms_tupian_slide')">
+        <i class="icon "></i>
+    </a>
+    <a id="brbt" class="big-pic-right pa" href="javascript:void(0);"
+       onclick="clickLog('from=fcpc_detail_esf_jn_fyms_tupian_slide')">
+        <i class="icon "></i>
+    </a>
+    <div class="picclose icon"
+         onclick="clickLog('from=fcpc_detail_esf_jn_fyms_tupian_close')"></div>
+</div>
+<!-- 大图模式 end -->
+<!-- 底部footer start -->
+<div id="footer" class="footer">
+    <div class="upWrap"><a target="_blank " href="http://about.58.com/help.html " rel="nofollow ">常见问题</a><span>|</span>
+        <a target="_blank " href="http://about.58.com/ " rel="nofollow ">帮助中心</a><span>|</span> <a target="_blank "
+                                                                                                   href="http://about.58.com/feedback.html "
+                                                                                                   rel="nofollow ">意见反馈</a><span>|</span>
+        <a target="_blank " href="http://about.58.com/home/ " rel="nofollow ">了解58同城</a><span>|</span> <a
+            target="_blank " href="http://about.58.com/hr/ " rel="nofollow ">加入58同城</a><span>|</span> <a
+            target="_blank " href="http://fanqizha.58.com/ " rel="nofollow ">反欺诈联盟</a><span>|</span> <a target="_blank "
+                                                                                                        href="http://110.58.com "
+                                                                                                        rel="nofollow ">报案平台</a><span>|</span>
+        <a target="_blank " href="http://e.58.com " rel="nofollow ">推广服务</a><span>|</span> <a target="_blank "
+                                                                                              href="http://biz.58.com "
+                                                                                              rel="nofollow ">渠道招商</a><span>|</span>
+        <a target="_blank " href="http://baozhang.58.com " rel="nofollow ">先行赔付</a><span>|</span> <a target="_blank "
+                                                                                                     href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2 "
+                                                                                                     rel="nofollow ">Investor
+            Relations</a></div>
+    <div class="downWrap"><em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a
+            target="_blank " href="http://www.miibeian.gov.cn/ " rel="nofollow ">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span>
+        <a target="_blank " href="http://ir.58.com " rel="nofollow ">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em>
+    </div>
+    <div class="fotBtmIcon">
+        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com "></a>
+        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/ "></a>
+        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm "></a>
+        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html "></a>
+        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3 "></a>
+        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html "></a>
+    </div>
+</div>
+<!-- footer end -->
+
+<script src='http://j1.58cdn.com.cn/ui7/js/limitbutton.js?20160108'></script>
+<script>
+    $(function () {
+        window.limitButton = new LimitButton({
+            button: $('.postBtn')
+        });
+    })
+</script>
+<script src="http://jinrong.58.com/static/qam/quick-apply-modal.js"></script>
+    <script src="http://adshow.58.com/js/ssp_init.js"></script>
+    <script type="text/javascript" src="//j1.58cdn.com.cn/crop/ecom/m/tcb/ideaShow/main_v20180110151257.js"></script>
+
+
+
+<!--基本统计代码begin-->
+<!-- <script type="text/javascript ">
+ var _trackURL = "{ 'cate': '1,8', 'area': '1,1143,1239', 'is_biz':true, 'stats':11, 'pagetype': 'detail', 'source':6, 'page': '', 'is_real':false, '8635': '', 'userid':42676354975501, 'shopid': '', 'trackkey': '28454291928271_b4b6ba23-a9d6-402a-b2f9-4df621f5ab48_20161223154144_1482478904982', 'fcinfotype': 'gz'} ";
+ </script>-->
+<script src="http://tracklog.58.com/referrer4.js"></script>
+</body>
+
+</html>
